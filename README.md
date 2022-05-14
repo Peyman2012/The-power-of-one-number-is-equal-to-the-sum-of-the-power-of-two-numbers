@@ -1,0 +1,1 @@
+# The-power-of-one-number-is-equal-to-the-sum-of-the-power-of-two-numbers
